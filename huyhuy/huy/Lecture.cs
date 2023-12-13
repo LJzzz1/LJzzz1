@@ -8,5 +8,6 @@ namespace huyhuy.huy
 {
     internal class Lecture
     {
+        public int ID { get; set; }
     }
 }
